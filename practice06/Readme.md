@@ -30,8 +30,12 @@ assign       six_digit_seg = {  seg_left, seg_right, seg_left, seg_right, seg_le
 
 ## 결과 
 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
+![](https://github.com/yuminchoi/LogicDesign/blob/master/practice06/picture/waveform.PNG)
 
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
+![](https://github.com/yuminchoi/LogicDesign/blob/master/practice06/picture/fpga.jpg)
+![](https://github.com/yuminchoi/LogicDesign/blob/master/practice06/picture/quiz01.jpg)
+![](https://github.com/yuminchoi/LogicDesign/blob/master/practice06/picture/quiz02.jpg)
 
 
 
