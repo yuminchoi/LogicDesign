@@ -49,3 +49,6 @@ assign       six_digit_seg = {  seg_left, seg_right, seg_left, seg_right, seg_le
 ![](https://github.com/yuminchoi/LogicDesign/blob/master/practice06/picture/quiz02.jpg)
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMzM3OTk2NTVdfQ==
+-->
